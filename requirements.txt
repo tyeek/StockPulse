@@ -1,0 +1,1 @@
+pip install pytdx pandas numpy concurrent.futures edge-tts pygame psutil pygetwindow pyautogui tkinter
